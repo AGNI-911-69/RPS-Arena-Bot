@@ -1,4 +1,4 @@
-# RPS Arena Telegram Bot.
+# RPS Arena Telegram Bot
 
 A private, head-to-head Rock Paper Scissors Telegram bot. Players issue a challenge in a group, then choose their weapons privately through the bot so neither player can see the other choice early.
 
